@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TianweiOwenLi
 - 👀 I’m interested in Math, CS, STEM in general, and sandbox games.
-- 🌱 I’m currently learning Standard ML.
+- 🌱 I’m currently learning about fundamentals of theoretical CS
 - 💞️ I’m looking to collaborate on my Simple_Math_Lib project.
 - 📫 How to reach me? email me at tianwei2@andrew.cmu.edu
 
