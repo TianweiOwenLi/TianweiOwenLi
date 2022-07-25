@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TianweiOwenLi
 - 👀 I’m interested in Math, CS, STEM in general, and sandbox games.
-- 🌱 I’m currently learning about Measure Theory, Combinatorics, Set Theory, Parallel Algorithms and Computer Systems.
-- 💞️ I’m looking to collaborate on my Simple_Math_Lib project.
+- 🌱 I’m currently learning about Machine Learning, Statistics, HTML, and topology.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me? email me at tianwei2@andrew.cmu.edu
 
 <!---
