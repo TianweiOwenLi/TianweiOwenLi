@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TianweiOwenLi
 - 👀 I’m interested in Math, CS, STEM in general, and sandbox games.
-- 🌱 I’m currently learning about Machine Learning, Statistics, HTML, and topology.
+- 🌱 I’m currently learning about Computer Security, Constructive Logic, and Algorithms
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me? email me at tianwei2@andrew.cmu.edu
 
