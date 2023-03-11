@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TianweiOwenLi
 - 👀 I’m interested in Math, CS, STEM in general, and sandbox games.
-- 🌱 I’m currently learning about Probabilistic Combinatorics, Compiler Design, the Rust Programming Language, and Intro to Control Theory.
+- 🌱 I’m currently learning about Probabilistic Combinatorics, Compiler Design, the Rust Programming Language, and Discrete Differential Geometry.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me? email me at tianwei2@andrew.cmu.edu
 
